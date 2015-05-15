@@ -1,14 +1,15 @@
 ﻿#pragma strict
+//おまじない
 
-function Start () {
+function Start () { //ゲームを始めた時最初に行われる処理
 
 }
-
-var Accel = 1000.0;
-
-function Update () {
-  rigidbody.AddForce(
-    transform.right * Input.GetAxisRaw( ) * ,
-    ForceMode.Impulse
-  );
+/*
+var Accel = 1000.0; 
+function Update () { // 1フレームごとに呼び出されます。
+      rigidbody.AddForce( 
+        transform.right * Input.GetAxisRaw( "" ) * ,
+        ForceMode.Impulse
+      );
 }
+*/
