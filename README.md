@@ -3,7 +3,7 @@ StartUPプロジェクト企画、ゆる〜くUnityを触ってみる ~ブロッ
 
 ## 勉強会の資料(手順書)
 ゆる〜くUnityを触ってみる ~ブロック崩し編~の資料は以下のリンクから取得してください。  
-[資料ファイル](https://drive.google.com/open?id=0B4YTSZeN_Xa1THBzc0w0NElLem8&authuser=0)
+[資料ファイル](https://docs.google.com/document/d/1941-3Kq4NMhr8GlmHRPTgrG-1MfbGoajT1tLWvCLJUw/edit?usp=sharing)
 
 
 ## 勉強会に使用するファイルのダウンロード方法
